@@ -5,8 +5,8 @@ This is a simple Task Manager application built with Spring Boot. The applicatio
 ## Features
 - **Create Task**: Add new tasks with title, description, and status.
 - **Read Tasks**: View all tasks or a specific task by ID.
-- **Update Task**: Update task details or mark a task as "Deactive" (soft delete).
-- **Delete Task**: Completely remove a task (hard delete).
+- **Update Task**: Update task details.
+- **Delete Task**: Mark task as delete.
 
 ## Prerequisites
 
