@@ -36,3 +36,4 @@ MONGO_DB_URI=mongodb://localhost:27017/todo-db
 http://localhost:8080/swagger-ui/index.html
 ![image](https://github.com/user-attachments/assets/e668b701-e2ae-4db3-aad4-05231156ea55)
 
+![image](https://github.com/user-attachments/assets/314d4dca-39e4-47ca-bfa4-c4ab0089c928)
