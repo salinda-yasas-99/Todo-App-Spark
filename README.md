@@ -22,5 +22,17 @@ Before you run this project, ensure you have the following installed on your loc
 
 Clone the project repository to your local machine:
 
-```bash
 git clone https://github.com/yourusername/task-manager.git
+
+
+### 2. Go to edit configurations and add your mongo db uri to environment variables
+
+MONGO_DB_URI=mongodb://localhost:27017/todo-db
+
+![image](https://github.com/user-attachments/assets/089f5dbc-ac28-4261-8d1e-b4f16c35f2ff)
+
+
+### 3. Add launch browser setting to launch swagger API documentation on Run. 
+http://localhost:8080/swagger-ui/index.html
+![image](https://github.com/user-attachments/assets/e668b701-e2ae-4db3-aad4-05231156ea55)
+
